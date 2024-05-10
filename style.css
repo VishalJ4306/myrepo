@@ -1,0 +1,14 @@
+/* style.CSS */
+
+
+body {
+
+
+  height: 1000px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom right, red, yellow);
+    h1{
+        font-size: 2em; /*sets the sie of the header text */
+        text-align: center; /* Centers the header text */
+    }
+}
